@@ -1,0 +1,32 @@
+li {
+  list-style: none;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+button {
+  margin: 0;
+  border: none;
+}
+.btn__submit {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid grey;
+  background-color: aquamarine;
+  color: black;
+  font-weight: 700;
+  width: 150px;
+}
+.contact__name {
+  font-weight: 500;
+}
+.contact__item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 400px;
+  padding: 0 0 0 10px;
+  justify-content: space-between;
+}

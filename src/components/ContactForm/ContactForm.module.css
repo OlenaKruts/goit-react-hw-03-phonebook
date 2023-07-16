@@ -1,0 +1,35 @@
+button {
+  margin: 0;
+  border: none;
+}
+form {
+  border: 2px solid grey;
+  background-color: rgb(182, 249, 240);
+  display: flex;
+  flex-direction: column;
+
+  width: 400px;
+  padding: 15px;
+}
+.label__form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 5px;
+  font-weight: 700;
+}
+.input__form {
+  padding: 5px;
+  width: 150px;
+  margin-top: 5px;
+}
+.btn__submit {
+  padding: 10px;
+  border-radius: 5px;
+  border: 2px solid grey;
+  background-color: aquamarine;
+  color: black;
+  font-weight: 700;
+  width: 150px;
+  margin-right: auto;
+  margin-left: auto;
+}

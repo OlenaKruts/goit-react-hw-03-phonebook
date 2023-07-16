@@ -1,0 +1,10 @@
+.label__filter {
+  display: block;
+  font-weight: 500;
+  padding-left: 10px;
+  margin-bottom: 20px;
+  color: orange;
+}
+.input__filter {
+  margin-left: 10px;
+}
